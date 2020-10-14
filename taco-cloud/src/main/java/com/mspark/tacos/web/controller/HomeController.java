@@ -1,4 +1,4 @@
-package com.mspark.tacos.controller;
+package com.mspark.tacos.web.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
